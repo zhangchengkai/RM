@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zz/Desktop/T2/build",
+  "command": "/usr/bin/g++-8   -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -g   -std=gnu++14 -o CMakeFiles/demo.dir/demo.cpp.o -c /home/zz/Desktop/T2/demo.cpp",
+  "file": "/home/zz/Desktop/T2/demo.cpp"
+},
+{
+  "directory": "/home/zz/Desktop/T2/build",
+  "command": "/usr/bin/g++-8   -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -g   -std=gnu++14 -o CMakeFiles/demo.dir/VO.cpp.o -c /home/zz/Desktop/T2/VO.cpp",
+  "file": "/home/zz/Desktop/T2/VO.cpp"
+}
+]

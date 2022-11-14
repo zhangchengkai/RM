@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zz/Desktop/NO.4/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -g   -std=gnu++14 -o CMakeFiles/demo.dir/demo.cpp.o -c /home/zz/Desktop/NO.4/demo.cpp",
+  "file": "/home/zz/Desktop/NO.4/demo.cpp"
+}
+]
